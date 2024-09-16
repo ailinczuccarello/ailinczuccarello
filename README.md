@@ -40,6 +40,6 @@ Native: Italian 🇮🇹  Chinese 🇹🇼
 Fluent: English (C2), French (A2)
 
 ## 🤝 Let's Connect!
-![LinkedIn](https://img.shields.io/badge/ailinczuccarello-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ailinczuccarello/)
+[![LinkedIn](https://img.shields.io/badge/ailinczuccarello-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ailinczuccarello/)](https://www.linkedin.com/in/ailinczuccarello/)
 
 
